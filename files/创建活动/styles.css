@@ -10611,14 +10611,23 @@
 }
 #u1214 {
   position:absolute;
-  left:50px;
+  left:0px;
   top:243px;
+  width:1065px;
+  height:638px;
+  overflow:hidden;
   visibility:hidden;
 }
 #u1214_state0 {
-  position:relative;
+  position:absolute;
   left:0px;
   top:0px;
+  width:1065px;
+  height:638px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
 }
 #u1214_state0_content {
